@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>University Timetable</title>
+<link rel="stylesheet" href="css/style.css">
+<script src="js/timetable.js"></script>
+</head>
+
+<body>
+
+<h2>University Timetable</h2>
+
+<select id="branch">
+<option value="CSE">CSE</option>
+<option value="ECE">ECE</option>
+<option value="EEE">EEE</option>
+</select>
+
+<select id="semester">
+<option value="1">Semester 1</option>
+<option value="2">Semester 2</option>
+<option value="3">Semester 3</option>
+</select>
+
+<button onclick="loadTimetable()">View Timetable</button>
+
+<div id="timetableDisplay"></div>
+
+</body>
+</html>
