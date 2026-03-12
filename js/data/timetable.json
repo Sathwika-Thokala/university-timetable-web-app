@@ -1,0 +1,26 @@
+{
+"CSE":{
+
+"1":"Maths | Physics | Programming | English",
+
+"2":"Data Structures | Digital Logic | OOP | Probability"
+
+},
+
+"ECE":{
+
+"1":"Maths | Physics | Basic Electronics | English",
+
+"2":"Signals | Analog Circuits | Network Theory"
+
+},
+
+"EEE":{
+
+"1":"Maths | Physics | Electrical Basics",
+
+"2":"Machines | Circuits | Power Systems"
+
+}
+
+}
