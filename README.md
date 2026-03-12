@@ -62,7 +62,7 @@ university-timetable-web-app
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/university-timetable-web-app.git
+git clone https://github.com/Sathwika-Thokala/university-timetable-web-app.git
 cd university-timetable-web-app
 ```
 
